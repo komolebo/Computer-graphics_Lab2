@@ -1,0 +1,27 @@
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\bin\Debug\Bezier.exe.config
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\bin\Debug\Bezier.exe
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\bin\Debug\Bezier.pdb
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\obj\Debug\Bezier.csprojResolveAssemblyReference.cache
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\obj\Debug\Bezier.MainForm.resources
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\obj\Debug\Bezier.Properties.Resources.resources
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\obj\Debug\Bezier.exe
+F:\6 term\Computer graphic\Lab2\Bezier\Bezier\obj\Debug\Bezier.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\obj\Debug\Bezier.MainForm.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\obj\Debug\Bezier.csprojResolveAssemblyReference.cache
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\bin\Debug\CGI_lab2.exe.config
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\bin\Debug\CGI_lab2.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\bin\Debug\CGI_lab2.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\obj\Debug\CGI_lab2.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\obj\Debug\CGI_lab2.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\Bezier\Bezier\obj\Debug\CGI_lab.Properties.Resources.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\bin\Debug\CGI_lab2.exe.config
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\obj\Debug\CGI_lab2.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\obj\Debug\CGI_lab2.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\bin\Debug\CGI_lab2.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\bin\Debug\CGI_lab2.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\obj\Debug\Bezier.csprojResolveAssemblyReference.cache
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\obj\Debug\Bezier.MainForm.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\obj\Debug\CGI_lab.Properties.Resources.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\2\CGI_2\Bezier\obj\Debug\Bezier.csproj.GenerateResource.Cache
